@@ -1,4 +1,19 @@
-### Hi there 👋
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdata04190&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+## 김묘경 (Myo-Kyeong Kim)
+
+
+### :book: edu
+
+|기간 |과정명| 기관|
+|------|---|---|
+|2022.7.5 - 2022.7.31|<a href = "https://www.credly.com/badges/af95c9be-2729-4636-a009-9d5019a2a784/public_url">AWS Academy Cloud Foundations</a>|AWS|
+|2022.8.1 - 2022.8.30|AWS Academy Cloud Architecting|AWS|
+
+
+
+![aws-academy-graduate-aws-academy-cloud-foundations](https://user-images.githubusercontent.com/77683645/184191630-5ff08e1c-87a2-4abd-be7b-c90587637adf.png)
 
 <!--
 **data04190/data04190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
