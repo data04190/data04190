@@ -3,18 +3,21 @@
 
 ## 김묘경 (Myo-Kyeong Kim)
 
+<br>
 
-### :book: education
+### :book: Education / Training
 
 | |기관| 과정명|
 |------|---|---|
-|![aws-academy-graduate-aws-academy-cloud-foundations](https://user-images.githubusercontent.com/77683645/184191630-5ff08e1c-87a2-4abd-be7b-c90587637adf.png)|AWS |<a href = "https://www.credly.com/badges/af95c9be-2729-4636-a009-9d5019a2a784/public_url">AWS Academy Cloud Foundations</a>|
-|![aws-academy-graduate-aws-academy-cloud-foundations](https://user-images.githubusercontent.com/77683645/184191630-5ff08e1c-87a2-4abd-be7b-c90587637adf.png)|AWS |<a href = "https://www.credly.com/badges/af95c9be-2729-4636-a009-9d5019a2a784/public_url">AWS Academy Cloud Architecting</a>|
-
-
+|<img src="https://user-images.githubusercontent.com/77683645/184191630-5ff08e1c-87a2-4abd-be7b-c90587637adf.png" alt="My Image" width="65">|AWS |<a href = "https://www.credly.com/badges/af95c9be-2729-4636-a009-9d5019a2a784/public_url">AWS Academy Cloud Foundations</a>|
+|<img src="https://user-images.githubusercontent.com/77683645/184191630-5ff08e1c-87a2-4abd-be7b-c90587637adf.png" alt="My Image" width="65">|AWS |<a href = "https://www.credly.com/badges/af95c9be-2729-4636-a009-9d5019a2a784/public_url">AWS Academy Cloud Architecting</a>|
 
 
 <!--
+<img src="https://user-images.githubusercontent.com/77683645/184191630-5ff08e1c-87a2-4abd-be7b-c90587637adf.png" alt="My Image" width="50">
+![aws-academy-graduate-aws-academy-cloud-foundations](https://user-images.githubusercontent.com/77683645/184191630-5ff08e1c-87a2-4abd-be7b-c90587637adf.png)
+
+
 **data04190/data04190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
