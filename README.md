@@ -9,7 +9,7 @@
 | |기관| 과정명|
 |------|---|---|
 |<a href = "https://www.credly.com/badges/af95c9be-2729-4636-a009-9d5019a2a784/public_url"><img src="https://user-images.githubusercontent.com/77683645/184191630-5ff08e1c-87a2-4abd-be7b-c90587637adf.png" alt="My Image" width="50"></a>|AWS |<a href = "https://www.credly.com/badges/af95c9be-2729-4636-a009-9d5019a2a784/public_url">AWS Academy Cloud Foundations</a>|
-|<a href = "https://www.credly.com/badges/af95c9be-2729-4636-a009-9d5019a2a784/public_url"><img src="https://user-images.githubusercontent.com/77683645/184191630-5ff08e1c-87a2-4abd-be7b-c90587637adf.png" alt="My Image" width="50"></a>|AWS |<a href = "https://www.credly.com/badges/af95c9be-2729-4636-a009-9d5019a2a784/public_url">AWS Academy Cloud Foundations</a>|AWS |<a href = "https://www.credly.com/badges/af95c9be-2729-4636-a009-9d5019a2a784/public_url">AWS Academy Cloud Architecting</a>|
+|<a href = "https://www.credly.com/badges/af95c9be-2729-4636-a009-9d5019a2a784/public_url"><img src="https://user-images.githubusercontent.com/77683645/184191630-5ff08e1c-87a2-4abd-be7b-c90587637adf.png" alt="My Image" width="50"></a>|AWS |<a href = "https://www.credly.com/badges/af95c9be-2729-4636-a009-9d5019a2a784/public_url">AWS Academy Cloud Architecting</a>|AWS |<a href = "https://www.credly.com/badges/af95c9be-2729-4636-a009-9d5019a2a784/public_url">AWS Academy Cloud Architecting</a>|
 
 <br>
 
