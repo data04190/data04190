@@ -4,6 +4,15 @@
 ## 김묘경 (Myo-Kyeong Kim)
 <br>
 
+### :book: Education / Training
+
+| |기관| 과정명|
+|------|---|---|
+|<img src="https://user-images.githubusercontent.com/77683645/184191630-5ff08e1c-87a2-4abd-be7b-c90587637adf.png" alt="My Image" width="55">|AWS |<a href = "https://www.credly.com/badges/af95c9be-2729-4636-a009-9d5019a2a784/public_url">AWS Academy Cloud Foundations</a>|
+|<img src="https://user-images.githubusercontent.com/77683645/184191630-5ff08e1c-87a2-4abd-be7b-c90587637adf.png" alt="My Image" width="55">|AWS |<a href = "https://www.credly.com/badges/af95c9be-2729-4636-a009-9d5019a2a784/public_url">AWS Academy Cloud Architecting</a>|
+
+<br>
+
 ### 🛠 Tech Stack
 <p>
 
@@ -27,18 +36,9 @@
 <br>
 
 
-### :book: Education / Training
-
-| |기관| 과정명|
-|------|---|---|
-|<img src="https://user-images.githubusercontent.com/77683645/184191630-5ff08e1c-87a2-4abd-be7b-c90587637adf.png" alt="My Image" width="65">|AWS |<a href = "https://www.credly.com/badges/af95c9be-2729-4636-a009-9d5019a2a784/public_url">AWS Academy Cloud Foundations</a>|
-|<img src="https://user-images.githubusercontent.com/77683645/184191630-5ff08e1c-87a2-4abd-be7b-c90587637adf.png" alt="My Image" width="65">|AWS |<a href = "https://www.credly.com/badges/af95c9be-2729-4636-a009-9d5019a2a784/public_url">AWS Academy Cloud Architecting</a>|
-
-<br>
 
 ### 📬 About me
-<a href="data04190@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=data04190@gmail.com"/></a>
-
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=round&logo=Gmail&logoColor=white&link=mailto:data04190@gmail.com)](mailto:data04190@gmail.com)
 
 <!--
 ### 🚀 Interests
